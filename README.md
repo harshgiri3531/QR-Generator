@@ -100,7 +100,6 @@ QRGen/
 │   └── generate.html
 │
 ├── app.py
-├── sessions.py
 ├── Procfile
 ├── .gitignore
 └── README.md
